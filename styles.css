@@ -105,3 +105,12 @@
     margin: 8px 0;
   }
 }
+footer {
+  text-align: center;
+  color: #b9bdcf;
+  font-weight: 500;
+  font-size: 14px;
+}
+footer {
+  margin-top: 80px;
+}
