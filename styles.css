@@ -104,6 +104,9 @@
   .card-title {
     margin: 8px 0;
   }
+  .image-section {
+    width: auto;
+  }
 }
 footer {
   text-align: center;
